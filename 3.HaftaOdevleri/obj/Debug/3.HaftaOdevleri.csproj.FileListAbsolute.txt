@@ -1,0 +1,8 @@
+D:\Visual projeler\3.HaftaOdevleri\bin\Debug\3.HaftaOdevleri.exe.config
+D:\Visual projeler\3.HaftaOdevleri\bin\Debug\3.HaftaOdevleri.exe
+D:\Visual projeler\3.HaftaOdevleri\bin\Debug\3.HaftaOdevleri.pdb
+D:\Visual projeler\3.HaftaOdevleri\obj\Debug\3.HaftaOdevleri.csproj.AssemblyReference.cache
+D:\Visual projeler\3.HaftaOdevleri\obj\Debug\3.HaftaOdevleri.csproj.SuggestedBindingRedirects.cache
+D:\Visual projeler\3.HaftaOdevleri\obj\Debug\3.HaftaOdevleri.csproj.CoreCompileInputs.cache
+D:\Visual projeler\3.HaftaOdevleri\obj\Debug\3.HaftaOdevleri.exe
+D:\Visual projeler\3.HaftaOdevleri\obj\Debug\3.HaftaOdevleri.pdb
